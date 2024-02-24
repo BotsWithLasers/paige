@@ -1,3 +1,3 @@
-module github.com/willfaught/paige
+module github.com/botswithlasers/paige
 
 go 1.19
